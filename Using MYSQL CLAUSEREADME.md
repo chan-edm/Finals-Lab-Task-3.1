@@ -74,3 +74,21 @@ VALUES
     
     SELECT * FROM courses
     ORDER BY students_enrolled asc;
+    
+# Sample output
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause1.png)
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause2.png)
+## Sample output
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause3.png)
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause4.png)
+## Sample output
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause5.png)
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause6.png)
+## Sample output
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause7.png)
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause8.png)
+## Sample output
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/claause9.png)
+![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause10.png)
+
+[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
