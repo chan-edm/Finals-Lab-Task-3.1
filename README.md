@@ -1,5 +1,5 @@
-### Finals-Lab-Task-3.1
-# Using MYSQL CLAUSEREADME
+# Finals-Lab-Task-3.1
+## Using MYSQL CLAUSEREADME
 ## Instructions:
 1. Create a database named online_courseDB
 2. Use the online_courseDB
@@ -76,7 +76,7 @@ VALUES
     SELECT * FROM courses
     ORDER BY students_enrolled asc;
     
-# Sample output
+## Sample output
 ![Image](https://github.com/user-attachments/assets/d31db1aa-97c2-4032-8d29-69012ca2999b)
 ![Image](https://github.com/user-attachments/assets/e8c54a62-5b07-4152-96e3-8d913f033031)
 ## Sample output
