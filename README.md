@@ -1,4 +1,5 @@
 ### Finals-Lab-Task-3.1
+# Using MYSQL CLAUSEREADME
 ## Instructions:
 1. Create a database named online_courseDB
 2. Use the online_courseDB
@@ -91,4 +92,5 @@ VALUES
 ![Image](https://github.com/user-attachments/assets/f703e8a6-0a03-477b-bdcf-9856006f615d)
 ![Image](https://github.com/user-attachments/assets/21d3d3dc-f738-4701-8cdd-c45533499a22)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+ <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
+    <a href="https://chan-edm.github.io/Finals-Lab-Task-5/" class="btn">CONTINUE TO LEARN</a>
