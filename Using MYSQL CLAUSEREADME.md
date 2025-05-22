@@ -76,19 +76,19 @@ VALUES
     ORDER BY students_enrolled asc;
     
 # Sample output
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause1.png)
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause2.png)
+![Image](https://github.com/user-attachments/assets/d31db1aa-97c2-4032-8d29-69012ca2999b)
+![Image](https://github.com/user-attachments/assets/e8c54a62-5b07-4152-96e3-8d913f033031)
 ## Sample output
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause3.png)
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause4.png)
+![Image](https://github.com/user-attachments/assets/a31f6d2c-773a-43ea-8aa6-f7bd848729f4)
+![Image](https://github.com/user-attachments/assets/e6ae8fb5-5f4b-433b-9e59-487d2c0c1e11)
 ## Sample output
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause5.png)
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause6.png)
+![Image](https://github.com/user-attachments/assets/46a3a3dc-424a-4a95-b219-3452d56b7451)
+![Image](https://github.com/user-attachments/assets/90278198-061e-42db-a57d-bc4369547236)
 ## Sample output
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause7.png)
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause8.png)
+![Image](https://github.com/user-attachments/assets/833a650d-47d9-4727-aa0e-4c0ac1d9d5cb)
+![Image](https://github.com/user-attachments/assets/a0b650df-00ae-4044-82ff-60ebf0ef7042)
 ## Sample output
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/claause9.png)
-![image](https://github.com/chan-edm/README/blob/22845f06c1c071bae3289a766fa3b5d04a253151/Images/clause10.png)
+![Image](https://github.com/user-attachments/assets/f703e8a6-0a03-477b-bdcf-9856006f615d)
+![Image](https://github.com/user-attachments/assets/21d3d3dc-f738-4701-8cdd-c45533499a22)
 
 [BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
